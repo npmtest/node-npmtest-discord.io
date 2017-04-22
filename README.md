@@ -1,4 +1,7 @@
-# test coverage for  [discord.io (v2.5.1)](https://github.com/izy521/discord.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord.io.svg)](https://travis-ci.org/npmtest/node-npmtest-discord.io)
+# npmtest-discord.io
+
+#### basic test coverage for  [discord.io (v2.5.1)](https://github.com/izy521/discord.io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-discord.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-discord.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-discord.io.svg)](https://travis-ci.org/npmtest/node-npmtest-discord.io)
+
 #### JavaScript interface for Discord.
 
 [![NPM](https://nodei.co/npm/discord.io.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/discord.io)
@@ -75,7 +78,8 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "typings": "./typings/index.d.ts",
-    "version": "2.5.1"
+    "version": "2.5.1",
+    "bin": {}
 }
 ```
 
